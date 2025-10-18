@@ -133,4 +133,4 @@ npm run dev
 
 ---
 
-Made with ❤️ by [@Harry9021](https://github.com/Harry9021)
+Made with ❤️ by Codered
